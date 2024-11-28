@@ -1,6 +1,6 @@
 # Notes App Backend with Hapi.js
 
-This project is a simple **Notes App Backend** built using the **Hapi.js framework**. It provides a CRUD (Create, Read, Update, Delete) API for managing notes. The project is part of the [Dicoding Course: Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud](https://www.dicoding.com/academies/817).
+This project is a simple **Notes App Backend** built using the **Hapi.js framework**. It provides a CRUD (Create, Read, Update, Delete) API for managing notes. The project is part of the [Dicoding Course: Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud](https://www.dicoding.com/academies/342).
 
 ## Features
 - **Add Notes**: Add new notes with a title, tags, and body.
